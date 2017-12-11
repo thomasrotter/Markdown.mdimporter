@@ -1,4 +1,4 @@
-macOS: make spotlight index markdown files
+# macOS: make spotlight index markdown files
 
 
 ```bash
@@ -6,4 +6,4 @@ sudo cp -R Markdown.mdimporter /Library/Spotlight
 mdimport -r /Library/Spotlight/Markdown.mdimporter
 ``` 
 
-Found [here](https://stackoverflow.com/questions/365669/how-can-i-make-spotlight-index-markdown-files)
+Found [here](https://stackoverflow.com/questions/365669/how-can-i-make-spotlight-index-markdown-files).
