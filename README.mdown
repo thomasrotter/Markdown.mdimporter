@@ -1,0 +1,4 @@
+```bash
+sudo cp -R Markdown.mdimporter /Library/Spotlight
+mdimport -r /Library/Spotlight/Markdown.mdimporter
+``` 
